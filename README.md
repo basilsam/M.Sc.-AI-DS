@@ -137,23 +137,9 @@ For queries or suggestions, please raise an issue in this repository.
 
 ## 👨‍💻 Contributors
 
-Thanks to everyone who contributes to this repository.
+Thanks to these amazing contributors:
 
-<a href="https://github.com/sfi-dcs/dcs/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sfi-dcs/dcs" />
-</a>
-
----
-
-## 📜 Usage Policy
-
-This repository is maintained strictly for **educational purposes** to support current and future students.
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-LIST:START -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
@@ -178,4 +164,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+---
+
+## 📜 Usage Policy
+
+This repository is maintained strictly for **educational purposes** to support current and future students.
