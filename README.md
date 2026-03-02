@@ -103,7 +103,7 @@ Maintain uniform file names:
 
 ## 🤝 Contribution Guidelines
 
-We welcome contributions from subcommittee members.
+We welcome contributions from subcommittee members and students.
 
 ### To Contribute:
 
