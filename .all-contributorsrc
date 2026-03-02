@@ -18,8 +18,17 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Manuratnam",
+      "name": "Manuratnam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223795415?v=4",
+      "profile": "https://github.com/Manuratnam",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "linkToUsage": true
+  "linkToUsage": false
 }
