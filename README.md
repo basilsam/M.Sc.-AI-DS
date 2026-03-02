@@ -1,6 +1,6 @@
 # 📚 SFI-DCS Subcommittee E-Library
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p align="center">
@@ -148,6 +148,7 @@ Thanks to these amazing contributors:
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Anugrahaa07"><img src="https://avatars.githubusercontent.com/u/223232400?v=4?s=100" width="100px;" alt="Anugraha Anil"/><br /><sub><b>Anugraha Anil</b></sub></a><br /><a href="#content-Anugrahaa07" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Manuratnam"><img src="https://avatars.githubusercontent.com/u/223795415?v=4?s=100" width="100px;" alt="Manuratnam"/><br /><sub><b>Manuratnam</b></sub></a><br /><a href="#content-Manuratnam" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/abhijithshaji17"><img src="https://avatars.githubusercontent.com/u/223315791?v=4?s=100" width="100px;" alt="Abhijith Shaji"/><br /><sub><b>Abhijith Shaji</b></sub></a><br /><a href="#content-abhijithshaji17" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/basilsam"><img src="https://avatars.githubusercontent.com/u/180090103?v=4?s=100" width="100px;" alt="basilsam"/><br /><sub><b>basilsam</b></sub></a><br /><a href="#content-basilsam" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
