@@ -42,32 +42,32 @@ Branch_Name (Syllabus)
 │
 ├── Question_Papers/
 │   ├── Semester_1/
-│   │   ├── 2021/
-│   │   ├── 2022/
+│   │   ├── 2021
+│   │   ├── 2022
 │   │   └── ...
 │   │
 │   ├── Semester_2/
-│   │   ├── 2021/
-│   │   ├── 2022/
+│   │   ├── 2021
+│   │   ├── 2022
 │   │   └── ...
 │   │
 │   └── ...
 │
 ├── 2021-2022Batch/
 │   ├── SEM-1/
-│   │   └── Study_Materials/
+│   │   └── Study_Materials
 │   │
 │   ├── SEM-2/
-│   │   └── Study_Materials/
+│   │   └── Study_Materials
 │   │
 │   └── ...
 │
 ├── 2022-2027Batch/
 │   ├── SEM-1/
-│   │   └── Study_Materials/
+│   │   └── Study_Materials
 │   │
 │   ├── SEM-2/
-│   │   └── Study_Materials/
+│   │   └── Study_Materials
 │   │
 │   └── ...
 │
@@ -129,6 +129,16 @@ For structural changes, open an issue before proceeding.
 Department of Computer Science  
 
 For queries or suggestions, please raise an issue in this repository.
+
+---
+
+## 👨‍💻 Contributors
+
+Thanks to everyone who contributes to this repository.
+
+<a href="https://github.com/sfi-dcs/dcs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sfi-dcs/dcs" />
+</a>
 
 ---
 
